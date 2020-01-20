@@ -1,0 +1,36 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[11]:
+
+
+l=[]
+for x in range(2000, 3200):
+    if (x%7==0) and (x%5!=0):
+        l.append(str(x))
+print (','.join(l))
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
